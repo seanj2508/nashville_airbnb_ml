@@ -7,7 +7,7 @@ Inside Airbnb, Nashville detailed listings (`listings.csv.gz`), snapshot dated 1
 Not included in this repo. 
 
 ## Models
-- Linear regression (nightly price): 
+### Linear regression (nightly price): 
 
 <ins>Cleaning Notebook</ins>
 
